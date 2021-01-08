@@ -26,3 +26,4 @@
 		Linkdin</a><br>Facebook<br>Skype<br>Duo<br>Zoom
 	<tr>
 		<td style="border:1px solid #333333; padding:2px; " bgcolor="#000000" align="center" colspan="3">
+<img border="0" src="JS.png" width="100%" height="100%">
