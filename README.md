@@ -18,14 +18,14 @@
 		<p align="center">
 		<a href="#JS">JavaScript</a><br>
 		<a href="#Scrum">SCRUM master</a><br>
-		<a href="#0">0</a><br>
-		<a href="#00">00</a><br>
-		<a href="#000">000</a><br>
+		<a href="#CIW">Master CIW Designer</a><br>
+		<a href="#MCDA">Professional DataBase Administrator</a><br>
+		<a href="#MOUS">MOUS</a><br>
 		<br>
 	<tr>
 		<td style="border:1px solid #222222; padding:2px; " bgcolor="#000000" align="center" colspan="3">
 		<a name="JS"><img border="0" src="JS.png#JS" width="900" height="635"></a><p>
-		<a name="JS"><img border="0" src="Scrum.png#Scrum" width="900" height="635"></a><p>
-		<a name="JS"><img border="0" src="0.png#0" width="900" height="635"></a><p>
-		<a name="JS"><img border="0" src="00.png#00" width="900" height="635"></a><p>
-		<a name="JS"><img border="0" src="000.png#000" width="900" height="635"></a><p>
+		<a name="Scrum"><img border="0" src="Scrum.png#Scrum" width="900" height="635"></a><p>
+		<a name="CIW"><img border="0" src="CIW.png#CIW" width="900" height="635"></a><p>
+		<a name="MCDA"><img border="0" src="MCDA.png#MCDA" width="900" height="635"></a><p>
+		<a name="MOUS"><img border="0" src="MOUS.png#MOUS" width="900" height="635"></a><p>
