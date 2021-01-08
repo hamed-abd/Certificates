@@ -16,18 +16,16 @@
 		<p><font color="#FF9900">Hamed.abd@Gmail.com</font><br></p>
 		<td width="210" align="center" style="padding:2px; border:1px solid #333333; " dir="ltr" bgcolor="#000000">
 		<p align="center">
-
 		<a href="#JS">JavaScript</a><br>
 		<a href="#Scrum">SCRUM master</a><br>
-		<a href="#JS">0</a><br>
-		<a href="#JS">00</a><br>
-		<a href="#JS">000</a><br>
+		<a href="#0">0</a><br>
+		<a href="#00">00</a><br>
+		<a href="#000">000</a><br>
 		<br>
 	<tr>
 		<td style="border:1px solid #333333; padding:2px; " bgcolor="#000000" align="center" colspan="3">
-		<a name="JS">
-		<img border="0" src="JS.png#JS" width="900" height="635"></a><p>
-		<img border="0" src="Scrum.png#Scrum" width="900" height="635"></a><p>
-		<img border="0" src="0.png#JS" width="900" height="635"></a><p>
-		<img border="0" src="00.png#JS" width="900" height="635"></a><p>
-		<img border="0" src="000.png#JS" width="900" height="635"></a><p>
+		<a name="JS"><img border="0" src="JS.png#JS" width="900" height="635"></a><p>
+		<a name="JS"><img border="0" src="Scrum.png#Scrum" width="900" height="635"></a><p>
+		<a name="JS"><img border="0" src="0.png#0" width="900" height="635"></a><p>
+		<a name="JS"><img border="0" src="00.png#00" width="900" height="635"></a><p>
+		<a name="JS"><img border="0" src="000.png#000" width="900" height="635"></a><p>
