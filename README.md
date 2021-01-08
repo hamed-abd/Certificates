@@ -14,12 +14,9 @@
 		<p><b><font color="#FF9900" size="7" face="Times New Roman">
 		حامدعبدالرزاق</font></b></p>
 		<p><font color="#FF9900">Hamed.abd@Gmail.com</font><br></p>
-		<td width="210" align="center" style="padding:2px; border:1px solid #333333; " height="197" dir="rtl" bgcolor="#000000">
-		<p align="center">
-
+		<td width="210" align="center" style="padding:2px; border:1px solid #333333; " dir="rtl" bgcolor="#000000">
 		[JavaScript](#JS)<br>
 		[SCRUM master](#Scrum)<br>
-
 	<tr>
 		<td style="border:1px solid #333333; padding:2px; " bgcolor="#000000" align="center" colspan="3">
 		<img border="0" src="JS.png#JS" width="900" height="635">
