@@ -4,17 +4,17 @@
 </head>
 <body link="#FF9900" vlink="#FF9900" alink="#FF9900" text="#FFFFFF" bgcolor="#000000">
 <div align="center">
-<table border="0" width="900" dir="rtl" style="font-family: Tahoma; font-size: 10pt; border: 1px solid #333333; ; color:#FFFFFF" bgcolor="#000000">
+<table border="0" width="900" dir="rtl" style="font-family: Tahoma; font-size: 10pt; border: 1px solid #222222; ; color:#FFFFFF" bgcolor="#000000">
 	<tr>
-		<td style="border:1px solid #333333; padding:2px; " bgcolor="#000000" align="center">
+		<td style="border:1px solid #222222; padding:2px; " bgcolor="#000000" align="center">
 		<p align="center">
 		<img border="0" src="Hamed.jpeg" width="200" height="200">
-		<td align="center" width="500" height="197" style="border:1px solid #333333; padding:2px; " dir="rtl" bgcolor="#000000">
+		<td align="center" width="500" height="197" style="border:1px solid #222222; padding:2px; " dir="rtl" bgcolor="#000000">
 		<p align="center">
 		<p><b><font color="#FF9900" size="7" face="Times New Roman">
 		حامدعبدالرزاق</font></b></p>
 		<p><font color="#FF9900">Hamed.abd@Gmail.com</font><br></p>
-		<td width="210" align="center" style="padding:2px; border:1px solid #333333; " dir="ltr" bgcolor="#000000">
+		<td width="210" align="center" style="padding:2px; border:1px solid #222222; " dir="ltr" bgcolor="#000000">
 		<p align="center">
 		<a href="#JS">JavaScript</a><br>
 		<a href="#Scrum">SCRUM master</a><br>
@@ -23,7 +23,7 @@
 		<a href="#000">000</a><br>
 		<br>
 	<tr>
-		<td style="border:1px solid #333333; padding:2px; " bgcolor="#000000" align="center" colspan="3">
+		<td style="border:1px solid #222222; padding:2px; " bgcolor="#000000" align="center" colspan="3">
 		<a name="JS"><img border="0" src="JS.png#JS" width="900" height="635"></a><p>
 		<a name="JS"><img border="0" src="Scrum.png#Scrum" width="900" height="635"></a><p>
 		<a name="JS"><img border="0" src="0.png#0" width="900" height="635"></a><p>
