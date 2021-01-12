@@ -19,15 +19,11 @@
 		<p align="center"><img border="0" src="Hamed.jpeg">
 	<tr>
 		<td style="border: 1px solid #333333; padding: 20px" colspan="3" bgcolor="#111111"><a name="JS"><img border="0" src="JS.png#JS" width="900" height="635"></a></td>
-	</tr>
 	<tr>
 		<td style="border: 1px solid #333333; padding: 20px" colspan="3" bgcolor="#111111"><a name="Scrum"><img border="0" src="Scrum.png#Scrum" width="900" height="635"></a></td>
-	</tr>
 	<tr>
 		<td style="border: 1px solid #333333; padding: 20px" colspan="3" bgcolor="#111111"><a name="CIW"><img border="0" src="CIW.png#CIW" width="900" height="635"></a></td>
-	</tr>
 	<tr>
 		<td style="border: 1px solid #333333; padding: 20px" colspan="3" bgcolor="#111111"><a name="MCDA"><img border="0" src="MCDA.png#MCDA" width="900" height="635"></a></td>
-	</tr>
 	<tr>
 		<td style="border: 1px solid #333333; padding: 20px" colspan="3" bgcolor="#111111"><a name="MOUS"><img border="0" src="MOUS.png#MOUS" width="900" height="635"></a></td>
