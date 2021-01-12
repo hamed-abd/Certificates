@@ -21,7 +21,6 @@
 		</font>
 		<a href="#MOUS" style="text-decoration: none"><font color="#FFFF00">MOUS</font></a>
 		</font>
-		</td>
 		<td style="border: 1px solid #333333; padding: 20px" align="left" valign="top" bgcolor="#111111">
 		<b><font face="Times New Roman" size="6">Hamed Abdolrazagh</font></b><p>
 	<br><a href="https://github.com/hamed-abd" style="text-decoration: none"><font color="#FFFF00">GitHub 
@@ -35,9 +34,7 @@
 	<font color="#FFFF00">Articles and Translations</font></a>
 		</td>
 		<td width="200" height="200" style="border: 1px solid #333333; padding: 0" bgcolor="#111111">
-		<p align="center"><img border="0" src="Hamed.jpeg"></td>
-	</tr>
-	<tr>
+		<p align="center"><img border="0" src="Hamed.jpeg">
 		<td style="border: 1px solid #333333; padding: 20px" colspan="3" bgcolor="#111111"><a name="JS"><img border="0" src="JS.png#JS" width="900" height="635"></a></td>
 	</tr>
 	<tr>
