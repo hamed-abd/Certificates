@@ -10,10 +10,15 @@
 		<p align="center">
 		<img border="0" src="Hamed.jpeg" width="200" height="200">
 		<td align="center" width="500" height="197" style="border:1px solid #222222; padding:2px; " dir="rtl" bgcolor="#111111">
-		<p align="center">
-		<p><b><font color="#FF9900" size="7" face="Times New Roman">
-		حامدعبدالرزاق</font></b></p>
-		<p><font color="#FF9900">Hamed.abd@Gmail.com</font><br></p>
+			<br><b><font face="Times New Roman" size="6">Hamed Abdolrazagh</font></b><p>
+	<br><a href="https://github.com/hamed-abd"><font color="#FFFF00">GitHub 
+	Profile</font></a><font color="#FFFF00"><br></font>
+	<a href="https://hamed-abd.github.io/Resume"><font color="#FFFF00">Resume</font></a><font color="#FFFF00"><br>
+	</font><a href="https://hamed-abd.github.io/Certificates">
+	<font color="#FFFF00">Certificates</font></a><font color="#FFFF00"><br>
+	</font>
+	<a href="https://github.com/hamed-abd/PNU_3991_AR/tree/main/Articles-And-Translations">
+	<font color="#FFFF00">Articles and Translations</font></a><br>		
 		<td width="210" align="center" style="padding:2px; border:1px solid #222222; " dir="ltr" bgcolor="#111111">
 		<p align="center">
 		<a href="#JS"><font color="#FFFF00">JavaScript</font></a><font color="#FFFF00"><br>
