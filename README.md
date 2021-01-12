@@ -1,6 +1,3 @@
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1256">
-</head>
 <body topmargin="5" leftmargin="5" rightmargin="5" bottommargin="5" marginwidth="5" marginheight="5" style="font-family: Tahoma; font-size: 10pt; color: #EEEEEE; border: 1px solid #333333; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px; background-color: #111111" link="#FFFF00" vlink="#FFFF00" alink="#FFFF00">
 <div align="center">
 <table border="1" width="900" style="border: 1px solid #333333" dir="rtl">
